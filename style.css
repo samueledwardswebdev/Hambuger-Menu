@@ -50,6 +50,7 @@ nav .mainMenu .closeMenu , .icons i {
 nav .logo {
   font-size: 1.2rem;
   cursor: pointer;
+  color: white;
 }
 @media(max-width: 800px){
 
